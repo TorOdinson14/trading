@@ -33,7 +33,7 @@ h1 {
 
   width: 180px;
 
-  min-height: 320px;
+  min-height: 150px;
 
   background-color: rgb(112, 112, 112);
 }
@@ -64,7 +64,7 @@ h1 {
 
 .nav-bottom {
   flex-wrap: wrap;
-  background: rgb(133, 133, 133);
+  background: rgb(0, 0, 0);
 }
 
 .nav-bottom li {
