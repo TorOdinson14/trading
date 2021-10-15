@@ -3,7 +3,12 @@ body {
   background: rgb(0, 0, 0);
 }
 #li-center{
-  padding-top: 30px;
+
+  list-style-type: none;
+
+}
+li{
+  list-style-type: none;
 }
 h1 {
   text-align: center;
@@ -35,7 +40,7 @@ h1 {
 
   width: 180px;
 
-  min-height: 150px;
+  min-height: 180px;
 
   background-color: rgb(112, 112, 112);
 }
@@ -54,7 +59,7 @@ h1 {
 @media (max-width: 300px) {
   .li-scrollmenu {
     max-width: 140px;
-    min-height: 150px;
+    min-height: 180px;
   }
 }
 
