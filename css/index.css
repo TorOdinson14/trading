@@ -18,7 +18,7 @@ body {
     text-decoration: none;
     text-align: center;
   
-    margin: 15px 5px 5px 5px;
+    margin: 5px 5px 5px 5px;
   
     font-size: 27px;
     color: cornsilk;
@@ -37,12 +37,12 @@ min-width: 300px;
   .li-scrollmenu {
     list-style-type: none;
  
-min-width: 25%;
-max-width: 26%;
- min-height: 200px;
+width: 250px;
+max-width: 30%;
+ min-height: 320px;
   
     background-color: rgb(112, 112, 112);
-      margin: 0px 25px 0px 25px;
+    
   }
   
   .ul-scrollmenu {
